@@ -1,0 +1,71 @@
+body{
+
+    background-image: url('./backgr.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.icon{
+
+    border-radius: 50px;
+}
+.heading{
+    color: cornsilk;
+    font-family: 'Arial Narrow Bold';
+    font-size: 75px;
+
+}
+header{
+    margin-left: 400px;
+}
+.navlayout{
+    font-size: 25px;
+    color:rgb(241, 52, 19);
+    text-decoration: none;
+    margin-left: 120px;
+    
+}
+nav{
+    position: sticky;
+    top: 0px;
+}
+.navlayout:hover{
+    color:rgb(233, 13, 233);
+}
+.inside{
+    color:rgb(198, 255, 220);
+    margin-left: 640px;
+    box-shadow: 0px 0px 30px rgb(233, 16, 0);
+    width: 150px;
+    text-align:center;
+    background-color: rgba(0, 0, 0, 0.5);
+
+
+
+}
+.conimg{
+
+    border-radius: 200px;
+    margin-left: 20px;
+}
+.content{
+    width:550px;
+    box-shadow: 0px 0px 0px 10px;
+    color: skyblue;
+    padding: 20px;
+    border-radius: 0px 20px 0px 20px;
+    font-size: 30px;
+    word-spacing: 2px;
+    line-height: 35px;
+    text-align:justify;
+    margin-left: 700px;
+    margin-top:-400px;
+}
+.foot{
+    margin-left: 700px;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    
+    
+}

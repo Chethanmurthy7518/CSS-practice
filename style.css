@@ -1,0 +1,18 @@
+body{
+    color: gray;;
+}
+
+h1{
+    color: rgb(9, 228, 75);
+}
+
+a:hover{
+    color: darkred;
+    text-decoration: none;
+}   
+h2{
+    color: deeppink;
+}
+h2:hover{
+    color: gold;
+}
